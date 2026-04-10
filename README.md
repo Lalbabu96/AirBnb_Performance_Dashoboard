@@ -40,7 +40,8 @@ The best dashboard explanation format.
 • Walk through of key visuals (briefly!)
 • Business impact & Insights
 
-Example: • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
+Example:
+• Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
 
 • Goal of the Dashboard To deliver an interactive visual tool that: Enables users to explore ski resorts globally. Supports decisions such as customer satified, customer  marketing, or infrastructure investment. Uncovers trends in terrain, accessibility, and customer review by region and city.
 
