@@ -34,7 +34,7 @@ More info on where the data comes from and how it’s structured Example: Source
 Data on ~500 airbnb listing reviews, including details on their location, room prices, and seasons, as well as a complementary table with the snow cover around the world.
 
 6. Features / Highlights
-The best dashboard explanation format.
+ The best dashboard explanation format.
 • Business problem
 • Goal of the dashboard
 • Walk through of key visuals (briefly!)
