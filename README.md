@@ -21,7 +21,7 @@ Example: The dashboard was built using the following tools and technologies:
 •  Data Modeling – Relationships established among tables (Listing, Reviews core cleanliness and Accuracy) to enable cross-filtering and aggregation.
 •  File Format – .pbix for development and .png for dashboard previews.
 
-4.Data Transformation Steps
+4.Data Transformation Steps  
 •Loaded raw CSV data into Power Query
 •Removed null values, duplicates, and irrelevant columns
 •Standardized price column (removed $, converted to decimal)
